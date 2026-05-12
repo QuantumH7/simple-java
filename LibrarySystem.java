@@ -12,7 +12,7 @@ class Book {
 
     private int issueDay;
     private int dueDay;
-    private int feePerDay = 10;
+    private int feePerDay = 20;
 
     private String issuedTo;
 
